@@ -1,0 +1,202 @@
+[
+    {
+        "question": "The electric field in a region is given by E⃗ = E0xi^. The charge contained inside a cubical volume bounded by the surfaces x = 0, x = l, y = 0, y = l, z = 0, z = l is -",
+        "options": [
+            "2ε0E0l2",
+            "ε0E0l2", 
+            "6ε0E0l2",
+            "zero"
+        ],
+        "answer": "zero"
+    },
+    {
+        "question": "The molar specific heat of a gas as given from the kinetic theory is 5/2R. If it is not specified whether it is Cp or Cv, one could conclude that the molecules of the gas",
+        "options": [
+            "Are definitely monoatomic",
+            "Are definitely rigid diatomic",
+            "Are definitely non-rigid diatomic", 
+            "Can be monoatomic or rigid diatomic"
+        ],
+        "answer": "Are definitely monoatomic"
+    },
+    {
+        "question": "A particle of mass M is moving in a horizontal circle of radius R with uniform speed V. When the particle moves from one point to a diametrically opposite point, its",
+        "options": [
+            "momentum does not change",
+            "momentum changes by 2MV",
+            "kinetic energy changes by MV2",
+            "kinetic energy changes by MV2/4"
+        ],
+        "answer": "momentum changes by 2MV"
+    },
+    {
+        "question": "Diameter of a steel ball is measured using a Vernier callipers which has divisions of 0.1 cm on its main scale (MS) and 10 divisions of its Vernier scale (VS) match 9 divisions on the main scale. Three such measurements for a ball are given as: MS (cm): 0.5, 0.5, 0.5 VS divisions: 8, 4, 6. If the zero error is −0.03 cm, then mean corrected diameter is",
+        "options": [
+            "0.53 cm",
+            "0.56 cm",
+            "0.59 cm",
+            "0.52 cm"
+        ],
+        "answer": "0.52 cm"
+    },
+    {
+        "question": "A solid iron ball and an aluminium ball of same diameter are released together in a lake. Which ball will reach the bottom first. (neglect viscosity and ρAl < ρFe)",
+        "options": [
+            "Aluminium Ball",
+            "Iron Ball",
+            "Both will reach at the same time",
+            "Data insufficient"
+        ],
+        "answer": "Both will reach at the same time"
+    },
+    {
+        "question": "The combination of gates shown here under figure, are equivalent to",
+        "options": [
+            "an NAND gate and an OR gate respectively",
+            "an AND gate and a NOT gate respectively",
+            "an AND gate and an OR gate respectively",
+            "an OR gate and a NOT gate respectively"
+        ],
+        "answer": "an AND gate and a NOT gate respectively"
+    },
+    {
+        "question": "A double star system consists of stars A and B which have time periods TA and TB. Radius RA and RB and mass MA and MB. Choose the correct option.",
+        "options": [
+            "If TA > TB then RA > RB",
+            "If TA > TB then MA > MB",
+            "If TA > TB then (TA/TB)2 = (RA/RB)3",
+            "If TA = TB"
+        ],
+        "answer": "If TA > TB then (TA/TB)2 = (RA/RB)3"
+    },
+    {
+        "question": "The de Broglie wavelength of an electron moving with a velocity 1.5 × 108 ms−1 is equal to that of a photon. The ratio of the kinetic energy of the electron to that of the energy of photon is:",
+        "options": [
+            "1.5",
+            "1",
+            "0.5",
+            "0.25"
+        ],
+        "answer": "0.5"
+    },
+    {
+        "question": "A student is at a distance 16 m from a bus when the bus begins to move with a constant acceleration of 9 ms−2. The minimum velocity with which the student should run towards the bus so as the catch it is α√2 ms−1. The value of α is",
+        "options": [
+            "10",
+            "12",
+            "15",
+            "20"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "An ideal gas is taken from point A to point C on P-V diagram through two process AOC and ABC as shown in the figure. Process AOC is isothermal",
+        "options": [
+            "Process AOC requires more heat than process ABC",
+            "Process ABC requires more heat than process AOC",
+            "Both process AOC & ABC require same amount of heat",
+            "Data is insufficient for comparison of heat requirement for the two processes"
+        ],
+        "answer": "Process ABC requires more heat than process AOC"
+    },
+    {
+        "question": "A battery of internal resistance 2Ω is connected to a variable resistor whose value can vary from 4Ω to 10Ω. The resistance is initially set at 4Ω. If the resistance is now increased then:",
+        "options": [
+            "power consumed by it will decrease",
+            "power consumed by it will increase",
+            "power consumed by it may increase or may decrease",
+            "power consumed will first increase then decrease"
+        ],
+        "answer": "power consumed will first increase then decrease"
+    },
+    {
+        "question": "To estimate g from g = 4π2L/T2, error in measurement of L is ±2% and error in measurement of T is ±3%. The error in estimated g will be",
+        "options": [
+            "±8%",
+            "±5%",
+            "±3%",
+            "±6%"
+        ],
+        "answer": "±8%"
+    },
+    {
+        "question": "A machine which is 70% efficient raises a 10 kg body through a certain distance and spends 100 J energy. The body is then released. On reaching the ground, the kinetic energy of the body will be",
+        "options": [
+            "0",
+            "70 J",
+            "50 J",
+            "35 J"
+        ],
+        "answer": "70 J"
+    },
+    {
+        "question": "A ray of light is incident at an angle of 45° from air to a glass slab at point A, the angle of incidence being 45°. The minimum value of the refractive index of the material of the slab so that Total Internal Reflection takes place at B is",
+        "options": [
+            "√3/2",
+            "√3",
+            "4/3",
+            "None of these"
+        ],
+        "answer": "√3"
+    },
+    {
+        "question": "A light beam exerts a force of 4.8 × 10−4 N on a surface with an area of 0.04 m2, which absorbs 80% of the incident light energy and remaining gets transmitted. If the speed of light is 3 × 108 m/s, calculate the light intensity in W/cm2",
+        "options": [
+            "300 W/cm2",
+            "400 W/cm2",
+            "450 W/cm2",
+            "500 W/cm2"
+        ],
+        "answer": "450 W/cm2"
+    },
+    {
+        "question": "There are four light-weight-rod samples A, B, C, D separately suspended by threads. A bar magnet is slowly brought near each sample and the following observations are noted: (i) A is feebly repelled (ii) B is feebly attracted (iii) C is strongly attracted (iv) D remains unaffected. Which one of the following is true?",
+        "options": [
+            "B is of a paramagnetic material",
+            "C is of a diamagnetic material",
+            "D is of ferromagnetic material",
+            "A is of a non-magnetic material"
+        ],
+        "answer": "B is of a paramagnetic material"
+    },
+    {
+        "question": "A gas satisfies the relation P = KV5/3 where P is pressure, V is volume and K is constant. The dimensions of constant K are",
+        "options": [
+            "ML4T−2",
+            "ML2T−2",
+            "ML6T−2",
+            "MLT−2"
+        ],
+        "answer": "ML4T−2"
+    },
+    {
+        "question": "In a series LR circuit connected to an alternating voltage source, it is observed that at the instant voltage across the source is maximum, voltage across the inductor is 3V and voltage across the resistance is 4V. If resistance is 2Ω, what is reactance (in Ω) of the inductor?",
+        "options": [
+            "√3",
+            "√2",
+            "2√2",
+            "2√3"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "A wheel of moment of inertia 2.5 Kg-m2 has an initial angular velocity of 40 rads−1. A constant torque of 10 Nm acts on the wheel. The time during which the wheel is accelerated to 60 rads−1 is",
+        "options": [
+            "6 s",
+            "5 s",
+            "4.5 s",
+            "4 s"
+        ],
+        "answer": "5 s"
+    },
+    {
+        "question": "Identify the correct statement(s) from among the following: (i) The constancy of the binding energy per nucleon in the range 30 < A < 170 is a consequence of the fact that the nuclear force is short ranged. (ii) The nuclear force does not depend on the charge of nucleons. (iii) The nuclear force is repulsive when distance between two nucleons is less than 0.8 fm",
+        "options": [
+            "(i) only",
+            "(ii), (iii)",
+            "(i), (ii)",
+            "(i), (ii), (iii)"
+        ],
+        "answer": "(i), (ii), (iii)"
+    }
+]
