@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container for the Quiz */
+#quiz-container {
+    background: white;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+/* Headings */
+h1 {
+    color: #333;
+    font-size: 28px;
+}
+
+h2 {
+    color: #555;
+}
+
+/* Questions */
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #222;
+}
+
+/* Options (Radio Buttons) */
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Submit Button */
+button {
+    background-color: #28a745;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Score Display */
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0066cc;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #quiz-container {
+        width: 90%;
+    }
+}
